@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.48.109.90:8080/openapiproxy/fileserver/filecontrol/download/647b376dd3aa47bc9cd6f1246808391a</string>
+					<string>https://github.com/9964858/DFAC_UAT_DEBUG/releases/download/1.2.0/DFAC.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.dawnpro.dfac.ios</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.2.0(UAT)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
